@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace VismaKoodi
+namespace cóuntRebate
 {
     //  program that counts price of product based on what rebate group customer belongs to
     class Program
